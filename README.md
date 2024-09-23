@@ -16,7 +16,12 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielDev-Junior&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" width ="70%" height="300" /><br/>
+  <a href="https://linkedin.com/in/gabriel-a-amorim" target="_blank"></a>
+  <a href="https://linkedin.com/in/gabriel-a-amorim" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=GabrielDev-Junior&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" width="70%" height="300" />
+</a>
+
+  <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDev-Junior&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width ="500"/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielDev-Junior&theme=dracula&hide_border=true" width ="500"/>
 </div>
