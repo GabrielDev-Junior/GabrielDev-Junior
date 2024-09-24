@@ -15,19 +15,19 @@
 
 
 # 📊 GitHub Stats:
-<div align="center">
-  <a href="https://linkedin.com/in/gabriel-a-amorim" target="_blank"></a>
-  <a href="https://linkedin.com/in/gabriel-a-amorim" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=GabrielDev-Junior&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" width="70%" height="300" />
-</a>
-
-  <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDev-Junior&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" width ="500"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielDev-Junior&theme=dracula&hide_border=true" width ="500"/>
-</div>
+   <div align="center">
+     <img src="https://drive.google.com/uc?export=view&id=1gKKq2HyYaz2uZp711aVdGNS7pe6A71PZ" width="720"/><br/>
+     <a href="https://linkedin.com/in/gabriel-a-amorim" target="_blank">
+       <img src="https://github-readme-stats.vercel.app/api?username=GabrielDev-Junior&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" width="70%" height="300" />
+     </a>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDev-Junior&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact"width="358"/>
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielDev-Junior&theme=dracula&hide_border=true" width="500"/>
+   </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=GabrielDev-Junior&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=GabrielDev-Junior&theme=dracula&no-frame=true&no-bg=false&margin-w=4"/>
+</div>
 
 ### 🔝 Top Contributed Repo
 <div align="center">
