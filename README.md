@@ -16,7 +16,6 @@
 
 # 📊 GitHub Stats:
    <div align="center">
-     <img src="https://drive.google.com/uc?export=view&id=1gKKq2HyYaz2uZp711aVdGNS7pe6A71PZ" width="720"/><br/>
      <a href="https://linkedin.com/in/gabriel-a-amorim" target="_blank">
        <img src="https://github-readme-stats.vercel.app/api?username=GabrielDev-Junior&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" width="70%" height="300" />
      </a>
